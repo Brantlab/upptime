@@ -35,12 +35,4 @@ status-website:
 
 i18n:
   footer: " "
-  
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 6 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "0 0 * * *"
+ 
