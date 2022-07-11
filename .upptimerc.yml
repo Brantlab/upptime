@@ -27,12 +27,10 @@ status-website:
   name: BrantLab Upptime
   introTitle: "**BrantLab Upptime**"
   introMessage: "Various website status checked from an external source"
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: " "
