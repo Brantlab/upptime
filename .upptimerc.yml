@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.brantlab.com
   # baseUrl: /your-repo-name
-  logoUrl: https://i.imgur.com/n0I6eIB.png
+  logoUrl: https://authentik.brantlab.xyz/media/application-icons/logo_only.png
   name: BrantLab Upptime
   introTitle: "**BrantLab Upptime**"
   introMessage: "Various website status checked from an external source"
